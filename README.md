@@ -82,6 +82,6 @@ Some Fun facts!
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f9a8d4&height=80&section=footer)
 
-<em>built with curiosity, late nights, and kpop playlists ♡</em>
+<em>built with curiosity and late nights ♡</em>
 
 </div>
