@@ -78,19 +78,6 @@ Some Fun facts!
 
 ---
 
-
-### ✦ github stats
-
-<div align="center">
-
-[![Ehizele's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehimochii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehimochii&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f9a8d4&height=80&section=footer)
