@@ -16,13 +16,13 @@
 
 ### about me
 
-CS student at **UMBC** (President's List · Dean's List · Merit Scholar) with a 3.82 GPA, focused on **machine learning, systems, and full-stack development**. Currently a software engineering intern at **Constellation Energy** and project lead on a real-world deployment. I also teach Python, do security research with a 3D-printed smart ring, and spend way too much time thinking about Spotify data.
+CS student at **UMBC** (President's List · Dean's List · Merit Scholar) with a 3.82 GPA, focused on **machine learning, systems, and full-stack development**. Currently a software engineering intern at **Constellation Energy** and project lead on a real-world deployment. 
 
+Some Fun facts!
 - 🎹 played piano for 12 years
 - 💿 k-pop fan
 - 🌟 INROADS Leadership Scholar
 - 📚 Teaching Fellow — Python @ UMBC
-- 🔐 Wearable security researcher
 
 ---
 
