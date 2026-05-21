@@ -83,11 +83,9 @@ Some Fun facts!
 
 <div align="center">
 
-![Ehizele's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehimochii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-&nbsp;
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ehimochii&theme=tokyonight&hide_border=true)
+[![Ehizele's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehimochii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehimochii&theme=tokyonight&hide_border=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehimochii&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
